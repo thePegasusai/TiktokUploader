@@ -1,5 +1,5 @@
 # TiktokUploader
-Autonous tiktok uploader outline.
+Autonomous tiktok uploader outline.
 
 This is just a sample of the code you would use to interact with the TikTok APIs and upload a video, you would need to integrate this with your application and make sure that you follow TikTok's terms and conditions, guidelines and restrictions.
 As well it should be used with an user interface where user can select the video files, set the captions, hashtags, and other fields required for the upload process.
